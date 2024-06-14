@@ -1,0 +1,4 @@
+@echo off
+:inicio
+start notepad
+goto inicio
